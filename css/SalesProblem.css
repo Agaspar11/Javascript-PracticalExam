@@ -1,0 +1,23 @@
+h1 {
+    font-size: 70px;
+    font-family: 'Sirin Stencil';
+    border-bottom: 5px solid;
+    border-top: 5px solid;
+}
+
+#output {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+body {
+    background-color: beige;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
+}
